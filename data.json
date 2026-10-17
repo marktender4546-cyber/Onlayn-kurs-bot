@@ -1,0 +1,306 @@
+{
+  "categories": [
+    {
+      "id": "it",
+      "icon": "💻",
+      "uz": "Dasturlash",
+      "ru": "Программирование"
+    },
+    {
+      "id": "design",
+      "icon": "🎨",
+      "uz": "Dizayn",
+      "ru": "Дизайн"
+    },
+    {
+      "id": "lang",
+      "icon": "🌍",
+      "uz": "Tillar",
+      "ru": "Языки"
+    },
+    {
+      "id": "biz",
+      "icon": "📈",
+      "uz": "Biznes va marketing",
+      "ru": "Бизнес и маркетинг"
+    }
+  ],
+  "courses": [
+    {
+      "id": "python",
+      "category": "it",
+      "image": "https://picsum.photos/seed/python/800/450",
+      "title": {
+        "uz": "Python dasturlash",
+        "ru": "Программирование на Python"
+      },
+      "short": {
+        "uz": "Noldan boshlab backend va botlar yaratishni o'rganing.",
+        "ru": "Научитесь создавать backend и ботов с нуля."
+      },
+      "description": {
+        "uz": "Kurs davomida Python asoslaridan boshlab, real loyihalar: Telegram botlar, veb-ilovalar va API yaratasiz. Har hafta amaliy topshiriqlar va mentor yordami.",
+        "ru": "На курсе вы пройдёте путь от основ Python до реальных проектов: Telegram-боты, веб-приложения и API. Практика каждую неделю и поддержка ментора."
+      },
+      "level": {
+        "uz": "Boshlang'ich",
+        "ru": "Начальный"
+      },
+      "duration": {
+        "uz": "4 oy",
+        "ru": "4 месяца"
+      },
+      "lessons": 48,
+      "teacher": "Azizbek Karimov",
+      "rating": 4.9,
+      "price": 1200000,
+      "old_price": 1500000,
+      "program": {
+        "uz": [
+          "Python asoslari",
+          "Funksiyalar va OOP",
+          "Ma'lumotlar bazasi (SQL)",
+          "Telegram bot yaratish",
+          "Veb-ilova (FastAPI)",
+          "Yakuniy loyiha"
+        ],
+        "ru": [
+          "Основы Python",
+          "Функции и ООП",
+          "Базы данных (SQL)",
+          "Создание Telegram-ботов",
+          "Веб-приложение (FastAPI)",
+          "Итоговый проект"
+        ]
+      }
+    },
+    {
+      "id": "frontend",
+      "category": "it",
+      "image": "https://picsum.photos/seed/frontend/800/450",
+      "title": {
+        "uz": "Frontend (HTML, CSS, JS)",
+        "ru": "Frontend (HTML, CSS, JS)"
+      },
+      "short": {
+        "uz": "Zamonaviy veb-saytlar yaratishni o'rganing.",
+        "ru": "Научитесь создавать современные сайты."
+      },
+      "description": {
+        "uz": "HTML, CSS, JavaScript va React bo'yicha to'liq kurs. Portfolio uchun 3 ta loyiha tayyorlaysiz.",
+        "ru": "Полный курс по HTML, CSS, JavaScript и React. Подготовите 3 проекта для портфолио."
+      },
+      "level": {
+        "uz": "Boshlang'ich",
+        "ru": "Начальный"
+      },
+      "duration": {
+        "uz": "5 oy",
+        "ru": "5 месяцев"
+      },
+      "lessons": 60,
+      "teacher": "Dilshod Rahimov",
+      "rating": 4.8,
+      "price": 1400000,
+      "program": {
+        "uz": [
+          "HTML va CSS",
+          "Flexbox va Grid",
+          "JavaScript asoslari",
+          "DOM va API",
+          "React",
+          "Portfolio loyiha"
+        ],
+        "ru": [
+          "HTML и CSS",
+          "Flexbox и Grid",
+          "Основы JavaScript",
+          "DOM и API",
+          "React",
+          "Проект для портфолио"
+        ]
+      }
+    },
+    {
+      "id": "uiux",
+      "category": "design",
+      "image": "https://picsum.photos/seed/uiux/800/450",
+      "title": {
+        "uz": "UI/UX dizayn (Figma)",
+        "ru": "UI/UX дизайн (Figma)"
+      },
+      "short": {
+        "uz": "Ilova va saytlar uchun chiroyli interfeys yarating.",
+        "ru": "Создавайте красивые интерфейсы для приложений и сайтов."
+      },
+      "description": {
+        "uz": "Figma dasturida noldan professional dizayn yaratish: kompozitsiya, ranglar, tipografiya, prototip.",
+        "ru": "Профессиональный дизайн в Figma с нуля: композиция, цвета, типографика, прототипы."
+      },
+      "level": {
+        "uz": "Boshlang'ich",
+        "ru": "Начальный"
+      },
+      "duration": {
+        "uz": "3 oy",
+        "ru": "3 месяца"
+      },
+      "lessons": 36,
+      "teacher": "Madina Yusupova",
+      "rating": 4.7,
+      "price": 1000000,
+      "old_price": 1250000,
+      "program": {
+        "uz": [
+          "Dizayn asoslari",
+          "Figma bilan ishlash",
+          "UX tadqiqot",
+          "Mobil ilova dizayni",
+          "Prototip",
+          "Yakuniy loyiha"
+        ],
+        "ru": [
+          "Основы дизайна",
+          "Работа в Figma",
+          "UX-исследования",
+          "Дизайн мобильных приложений",
+          "Прототипирование",
+          "Итоговый проект"
+        ]
+      }
+    },
+    {
+      "id": "english",
+      "category": "lang",
+      "image": "https://picsum.photos/seed/english/800/450",
+      "title": {
+        "uz": "Ingliz tili (IELTS)",
+        "ru": "Английский язык (IELTS)"
+      },
+      "short": {
+        "uz": "IELTS 6.5+ ballga tayyorlanish kursi.",
+        "ru": "Подготовка к IELTS на 6.5+ баллов."
+      },
+      "description": {
+        "uz": "Speaking, Writing, Listening va Reading bo'yicha intensiv tayyorgarlik. Haftalik mock testlar.",
+        "ru": "Интенсивная подготовка по Speaking, Writing, Listening и Reading. Еженедельные пробные тесты."
+      },
+      "level": {
+        "uz": "O'rta",
+        "ru": "Средний"
+      },
+      "duration": {
+        "uz": "6 oy",
+        "ru": "6 месяцев"
+      },
+      "lessons": 72,
+      "teacher": "Sarah Johnson",
+      "rating": 4.9,
+      "price": 900000,
+      "program": {
+        "uz": [
+          "Grammatika",
+          "Listening",
+          "Reading",
+          "Writing",
+          "Speaking",
+          "Mock testlar"
+        ],
+        "ru": [
+          "Грамматика",
+          "Listening",
+          "Reading",
+          "Writing",
+          "Speaking",
+          "Пробные тесты"
+        ]
+      }
+    },
+    {
+      "id": "smm",
+      "category": "biz",
+      "image": "https://picsum.photos/seed/smm/800/450",
+      "title": {
+        "uz": "SMM va marketing",
+        "ru": "SMM и маркетинг"
+      },
+      "short": {
+        "uz": "Ijtimoiy tarmoqlarda biznesni rivojlantirish.",
+        "ru": "Продвижение бизнеса в социальных сетях."
+      },
+      "description": {
+        "uz": "Kontent reja, targeting, reklama byudjeti va analitika. Real brendlar bilan amaliyot.",
+        "ru": "Контент-план, таргетинг, рекламный бюджет и аналитика. Практика на реальных брендах."
+      },
+      "level": {
+        "uz": "Boshlang'ich",
+        "ru": "Начальный"
+      },
+      "duration": {
+        "uz": "2 oy",
+        "ru": "2 месяца"
+      },
+      "lessons": 24,
+      "teacher": "Jasur Toshev",
+      "rating": 4.6,
+      "price": 700000,
+      "old_price": 850000,
+      "program": {
+        "uz": [
+          "Marketing asoslari",
+          "Kontent strategiya",
+          "Instagram va Telegram",
+          "Targetli reklama",
+          "Analitika"
+        ],
+        "ru": [
+          "Основы маркетинга",
+          "Контент-стратегия",
+          "Instagram и Telegram",
+          "Таргетированная реклама",
+          "Аналитика"
+        ]
+      }
+    }
+  ],
+  "about": {
+    "uz": "🎓 <b>Bizning o'quv markaz</b>\n\nBiz 2020-yildan beri minglab o'quvchilarga zamonaviy kasblarni o'rgatib kelamiz.\n\n✅ Amaliyotchi mentorlar\n✅ Real loyihalar\n✅ Sertifikat\n✅ Ish topishda yordam",
+    "ru": "🎓 <b>Наш учебный центр</b>\n\nС 2020 года мы обучаем тысячи студентов современным профессиям.\n\n✅ Менторы-практики\n✅ Реальные проекты\n✅ Сертификат\n✅ Помощь в трудоустройстве"
+  },
+  "contacts": {
+    "uz": "📞 <b>Aloqa</b>\n\n☎️ Telefon: +998 90 123 45 67\n💬 Telegram: @your_username\n📍 Manzil: Toshkent sh., Amir Temur ko'chasi 1\n🕘 Ish vaqti: 09:00 – 18:00",
+    "ru": "📞 <b>Контакты</b>\n\n☎️ Телефон: +998 90 123 45 67\n💬 Telegram: @your_username\n📍 Адрес: г. Ташкент, ул. Амира Темура 1\n🕘 Время работы: 09:00 – 18:00"
+  },
+  "faq": [
+    {
+      "q": {
+        "uz": "Kurslar onlaynmi?",
+        "ru": "Курсы проходят онлайн?"
+      },
+      "a": {
+        "uz": "Ha, barcha darslar onlayn va yozib olinadi.",
+        "ru": "Да, все уроки проходят онлайн и записываются."
+      }
+    },
+    {
+      "q": {
+        "uz": "Sertifikat beriladimi?",
+        "ru": "Выдаётся ли сертификат?"
+      },
+      "a": {
+        "uz": "Ha, kursni tugatganlarga sertifikat beriladi.",
+        "ru": "Да, выпускникам выдаётся сертификат."
+      }
+    },
+    {
+      "q": {
+        "uz": "To'lov qanday amalga oshiriladi?",
+        "ru": "Как происходит оплата?"
+      },
+      "a": {
+        "uz": "Ariza qoldiring — menejer to'lov usullarini tushuntiradi.",
+        "ru": "Оставьте заявку — менеджер объяснит способы оплаты."
+      }
+    }
+  ]
+}
